@@ -1,0 +1,20 @@
+program biodata_diri;
+uses crt;
+var
+nama,address:String;
+
+begin
+clrscr();
+  WriteLn('================');
+  WriteLn('--BIODATA DIRI--');
+  WriteLn('================');
+  WriteLn('');
+  WriteLn('MY NAME IS RAMADHANI SETIAWAN');
+  WriteLn('MY ADDRESS IN PENOLIH RT 1 RW 2 KALIGONDANG PURBALINGGA');
+  WriteLn('MY HOBBIES IS READING');
+  WriteLn('I HAVE NOT MARRIED AND I GRADUATED ON 2K19');
+  WriteLn('i am sorry i just can do this');
+  WriteLn('made by pascal');
+  WriteLn('------------------------------');
+  readln;
+end.
